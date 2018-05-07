@@ -1,3 +1,8 @@
+//  Created by Matthew Chamot
+//  For a Teensy LC
+//  December 2017
+
+
 #include <SparkFun_TB6612.h>
 #include <Servo.h>
 
